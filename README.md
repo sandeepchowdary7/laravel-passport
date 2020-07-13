@@ -6,7 +6,7 @@
 
 ## About Laravel-Passport
 
-Laravel-Passport package is a open source repo to create other dev's with registered basic routes like user register/login and get user details. Ref: AuthController.php file
+Laravel-Passport package is a open source repo to help other dev's with registered basic routes like user register/login and get user details. Ref: AuthController.php file
 
 ## License
 
